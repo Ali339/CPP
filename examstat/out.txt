@@ -1,0 +1,26 @@
+ Ali Zaib 
+ Assignment #3
+
+ 								 EXAMINATION STATISTICS 
+
+Student ID	Correct		Wrong		Answered	Omitted		Correct %	Grade		 C/W Ratio		10 or More Omitted 
+1111            20              24              44              6               0.455           40               Correct < Wrong        No                 
+1112            49              1               50              0               0.980           98               Correct > Wrong        No                 
+1113            0               50              50              0               0.000           0                Correct < Wrong        No                 
+1114            33              11              44              6               0.750           66               Correct > Wrong        No                 
+1115            24              26              50              0               0.480           48               Correct < Wrong        No                 
+1116            23              0               23              27              1.000           46               Correct > Wrong        Yes                
+1117            43              7               50              0               0.860           86               Correct > Wrong        No                 
+1118            12              24              36              14              0.333           24               Correct < Wrong        Yes                
+1119            22              22              44              6               0.500           44               Correct = Wrong        No                 
+1120            44              2               46              4               0.957           88               Correct > Wrong        No                 
+1121            33              11              44              6               0.750           66               Correct > Wrong        No                 
+1122            33              33              answered > 50   Error           Error           Error            answered > 50          answered > 50      
+1123            25              23              48              2               0.521           50               Correct > Wrong        No                 
+1124            0               0               0               50              Error           Error            0 answered             All omitted        
+1125            22              13              35              15              0.629           44               Correct > Wrong        Yes                
+1126            18              18              36              14              0.500           36               Correct = Wrong        Yes                
+
+We have processed 16 students
+Maximum Correct Percentage is 1.000 of student with id 1116
+Maximum Numeric Grade is 98 of student with id 1112

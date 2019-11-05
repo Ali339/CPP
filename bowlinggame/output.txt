@@ -1,0 +1,321 @@
+Ali Zaib
+BOWLING SCORES
+
+Score1 = 22
+Score2 = 22
+Score3 = 300
+Score1 is 22 which is between 0 and 300 (valid score)
+Score2 is 22 which is between 0 and 300 (valid score)
+Score3 is 300 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 22 Rating: Horrible game.
+Score: 22 Rating: Horrible game.
+Score: 300 Rating: Professional game.
+AVERAGE SCORE = 114
+Score: 114 Rating: Good game.
+
+
+
+Score1 = 1
+Score2 = 22
+Score3 = 300
+Score1 is 1 which is between 0 and 300 (valid score)
+Score2 is 22 which is between 0 and 300 (valid score)
+Score3 is 300 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 1 Rating: Horrible game.
+Score: 22 Rating: Horrible game.
+Score: 300 Rating: Professional game.
+AVERAGE SCORE = 107
+Score: 107 Rating: Good game.
+
+
+
+Score1 = 89
+Score2 = 33
+Score3 = 300
+Score1 is 89 which is between 0 and 300 (valid score)
+Score2 is 33 which is between 0 and 300 (valid score)
+Score3 is 300 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 89 Rating: Poor game.
+Score: 33 Rating: Horrible game.
+Score: 300 Rating: Professional game.
+AVERAGE SCORE = 140
+Score: 140 Rating: Very good game.
+
+
+
+Score1 = 333
+Score2 = 33
+Score3 = 44
+Score1 is 333 which is more than 300 (invalid score)
+Score2 is 33 which is between 0 and 300 (valid score)
+Score3 is 44 which is between 0 and 300 (valid score)
+GROUP IS INVALID
+
+
+
+Score1 = 300
+Score2 = 300
+Score3 = 300
+Score1 is 300 which is between 0 and 300 (valid score)
+Score2 is 300 which is between 0 and 300 (valid score)
+Score3 is 300 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 300 Rating: Professional game.
+Score: 300 Rating: Professional game.
+Score: 300 Rating: Professional game.
+AVERAGE SCORE = 300
+Score: 300 Rating: Professional game.
+
+
+
+Score1 = 34
+Score2 = 37
+Score3 = 20
+Score1 is 34 which is between 0 and 300 (valid score)
+Score2 is 37 which is between 0 and 300 (valid score)
+Score3 is 20 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 34 Rating: Horrible game.
+Score: 37 Rating: Horrible game.
+Score: 20 Rating: Horrible game.
+AVERAGE SCORE = 30
+Score: 30 Rating: Horrible game.
+
+
+
+Score1 = -99
+Score2 = 24
+Score3 = 46
+Score1 is -99 which is less than 0 (invalid score)
+Score2 is 24 which is between 0 and 300 (valid score)
+Score3 is 46 which is between 0 and 300 (valid score)
+GROUP IS INVALID
+
+
+
+Score1 = 200
+Score2 = 100
+Score3 = 120
+Score1 is 200 which is between 0 and 300 (valid score)
+Score2 is 100 which is between 0 and 300 (valid score)
+Score3 is 120 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 200 Rating: Excellent game.
+Score: 100 Rating: Good game.
+Score: 120 Rating: Good game.
+AVERAGE SCORE = 140
+Score: 140 Rating: Very good game.
+
+
+
+Score1 = 300
+Score2 = 999
+Score3 = 234
+Score1 is 300 which is between 0 and 300 (valid score)
+Score2 is 999 which is more than 300 (invalid score)
+Score3 is 234 which is between 0 and 300 (valid score)
+GROUP IS INVALID
+
+
+
+Score1 = 150
+Score2 = 234
+Score3 = 120
+Score1 is 150 which is between 0 and 300 (valid score)
+Score2 is 234 which is between 0 and 300 (valid score)
+Score3 is 120 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 150 Rating: Very good game.
+Score: 234 Rating: Excellent game.
+Score: 120 Rating: Good game.
+AVERAGE SCORE = 168
+Score: 168 Rating: Very good game.
+
+
+
+Score1 = 233
+Score2 = -44
+Score3 = 120
+Score1 is 233 which is between 0 and 300 (valid score)
+Score2 is -44 which is less than 0 (invalid score)
+Score3 is 120 which is between 0 and 300 (valid score)
+GROUP IS INVALID
+
+
+
+Score1 = 1
+Score2 = 22
+Score3 = 888
+Score1 is 1 which is between 0 and 300 (valid score)
+Score2 is 22 which is between 0 and 300 (valid score)
+Score3 is 888 which is more than 300 (invalid score)
+GROUP IS INVALID
+
+
+
+Score1 = 50
+Score2 = 23
+Score3 = 45
+Score1 is 50 which is between 0 and 300 (valid score)
+Score2 is 23 which is between 0 and 300 (valid score)
+Score3 is 45 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 50 Rating: Poor game.
+Score: 23 Rating: Horrible game.
+Score: 45 Rating: Horrible game.
+AVERAGE SCORE = 39
+Score: 39 Rating: Horrible game.
+
+
+
+Score1 = 300
+Score2 = 300
+Score3 = -88
+Score1 is 300 which is between 0 and 300 (valid score)
+Score2 is 300 which is between 0 and 300 (valid score)
+Score3 is -88 which is less than 0 (invalid score)
+GROUP IS INVALID
+
+
+
+Score1 = 299
+Score2 = 200
+Score3 = 139
+Score1 is 299 which is between 0 and 300 (valid score)
+Score2 is 200 which is between 0 and 300 (valid score)
+Score3 is 139 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 299 Rating: Professional game.
+Score: 200 Rating: Excellent game.
+Score: 139 Rating: Good game.
+AVERAGE SCORE = 212
+Score: 212 Rating: Excellent game.
+
+
+
+Score1 = 45
+Score2 = 69
+Score3 = 77
+Score1 is 45 which is between 0 and 300 (valid score)
+Score2 is 69 which is between 0 and 300 (valid score)
+Score3 is 77 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 45 Rating: Horrible game.
+Score: 69 Rating: Poor game.
+Score: 77 Rating: Poor game.
+AVERAGE SCORE = 63
+Score: 63 Rating: Poor game.
+
+
+
+Score1 = 300
+Score2 = 128
+Score3 = 200
+Score1 is 300 which is between 0 and 300 (valid score)
+Score2 is 128 which is between 0 and 300 (valid score)
+Score3 is 200 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 300 Rating: Professional game.
+Score: 128 Rating: Good game.
+Score: 200 Rating: Excellent game.
+AVERAGE SCORE = 209
+Score: 209 Rating: Excellent game.
+
+
+
+Score1 = 50
+Score2 = 500
+Score3 = 345
+Score1 is 50 which is between 0 and 300 (valid score)
+Score2 is 500 which is more than 300 (invalid score)
+Score3 is 345 which is more than 300 (invalid score)
+GROUP IS INVALID
+
+
+
+Score1 = -99
+Score2 = 34
+Score3 = 45
+Score1 is -99 which is less than 0 (invalid score)
+Score2 is 34 which is between 0 and 300 (valid score)
+Score3 is 45 which is between 0 and 300 (valid score)
+GROUP IS INVALID
+
+
+
+Score1 = 100
+Score2 = 100
+Score3 = 100
+Score1 is 100 which is between 0 and 300 (valid score)
+Score2 is 100 which is between 0 and 300 (valid score)
+Score3 is 100 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 100 Rating: Good game.
+Score: 100 Rating: Good game.
+Score: 100 Rating: Good game.
+AVERAGE SCORE = 100
+Score: 100 Rating: Good game.
+
+
+
+Score1 = 90
+Score2 = 300
+Score3 = 210
+Score1 is 90 which is between 0 and 300 (valid score)
+Score2 is 300 which is between 0 and 300 (valid score)
+Score3 is 210 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 90 Rating: Poor game.
+Score: 300 Rating: Professional game.
+Score: 210 Rating: Excellent game.
+AVERAGE SCORE = 200
+Score: 200 Rating: Excellent game.
+
+
+
+Score1 = 345
+Score2 = 34
+Score3 = 45
+Score1 is 345 which is more than 300 (invalid score)
+Score2 is 34 which is between 0 and 300 (valid score)
+Score3 is 45 which is between 0 and 300 (valid score)
+GROUP IS INVALID
+
+
+
+Score1 = 50
+Score2 = 300
+Score3 = 140
+Score1 is 50 which is between 0 and 300 (valid score)
+Score2 is 300 which is between 0 and 300 (valid score)
+Score3 is 140 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 50 Rating: Poor game.
+Score: 300 Rating: Professional game.
+Score: 140 Rating: Very good game.
+AVERAGE SCORE = 163
+Score: 163 Rating: Very good game.
+
+
+
+Score1 = 300
+Score2 = 25
+Score3 = 200
+Score1 is 300 which is between 0 and 300 (valid score)
+Score2 is 25 which is between 0 and 300 (valid score)
+Score3 is 200 which is between 0 and 300 (valid score)
+GROUP IS VALID
+Score: 300 Rating: Professional game.
+Score: 25 Rating: Horrible game.
+Score: 200 Rating: Excellent game.
+AVERAGE SCORE = 175
+Score: 175 Rating: Very good game.
+
+
+
+We have processed 24 groups
+We have processed 15 valid groups
+We have processed 9 invalid groups
